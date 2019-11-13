@@ -1,0 +1,17 @@
+{
+    "name": "tautis/homework6_php_2",
+    "description": "NFQ Homework PHP-2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tautvydas Rušas",
+            "email": "tautis63@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Nfq\\":  "src"
+        }
+    }
+}
